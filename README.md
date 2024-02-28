@@ -1,3 +1,3 @@
 # snowborad
  
-<img src=/01sb.jpg><img src=/01sb.jpg>
+<img src=/01sb.JPG><img src=/02sb.JPG>
